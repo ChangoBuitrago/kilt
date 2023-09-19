@@ -1,1 +1,22 @@
-[{"credential":{"claim":{"cTypeHash":"0x47d04c42bdf7fdd3fc5a194bcaa367b2f4766a6b16ae3df628927656d818f420","contents":{"Twitter":"briefboards"},"owner":"did:kilt:4pLPunXBCy8EqVUAv92q2ne3HSFBzTSqkyfH5mYBVJZszWQd"},"claimHashes":["0x5790a8a1a45c0a47f9c55c9cb1848c661adc80d278d314e6496ef665a8118a3c","0xb3e53dec9286f0d858b78afb413fcc282e62a94063bf8644487de26ec6bf4b43"],"claimNonceMap":{"0xb03879c92c83a907d2cc092852dced7f2b0b5b3dc2202b2a9f40c0c307adec2a":"d05e171a-b620-42c8-9c62-a12d6347fc39","0xd462a56aa00fc77a7630da8cdfd3f8f8b2d80855d6bda9863a7865b791d4611c":"3ea6a21d-1d3b-4cd3-8bd1-e0fb869184f4"},"delegationId":null,"legitimations":[],"rootHash":"0x4b9393f911f9a9ceb1c84b0f8d59fb6c22fdf0dc27c76003de9a5de95195ade1"}}]
+[{
+	"credential": {
+		"claim": {
+			"cTypeHash": "0x47d04c42bdf7fdd3fc5a194bcaa367b2f4766a6b16ae3df628927656d818f420",
+			"contents": {
+				"Twitter": "briefboards"
+			},
+			"owner": "did:kilt:4pLPunXBCy8EqVUAv92q2ne3HSFBzTSqkyfH5mYBVJZszWQd"
+		},
+		"claimHashes": ["0x5790a8a1a45c0a47f9c55c9cb1848c661adc80d278d314e6496ef665a8118a3c", "0xb3e53dec9286f0d858b78afb413fcc282e62a94063bf8644487de26ec6bf4b43"],
+		"claimNonceMap": {
+			"0xb03879c92c83a907d2cc092852dced7f2b0b5b3dc2202b2a9f40c0c307adec2a": "d05e171a-b620-42c8-9c62-a12d6347fc39",
+			"0xd462a56aa00fc77a7630da8cdfd3f8f8b2d80855d6bda9863a7865b791d4611c": "3ea6a21d-1d3b-4cd3-8bd1-e0fb869184f4"
+		},
+		"delegationId": null,
+		"legitimations": [],
+		"rootHash": "0x4b9393f911f9a9ceb1c84b0f8d59fb6c22fdf0dc27c76003de9a5de95195ade1"
+	},
+	"metadata": {
+		"label": "buitrago"
+	}
+}]
